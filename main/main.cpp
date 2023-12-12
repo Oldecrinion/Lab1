@@ -9,5 +9,6 @@ int main()
     cin >> a;
     cin >> b;
     cout << endl << "chisla   " << a << " " << b << endl;
+    cout << "raznost=  " << a - b << endl;
     
 }
