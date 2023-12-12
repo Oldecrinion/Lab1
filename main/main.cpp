@@ -12,5 +12,5 @@ int main()
     cin >> b;
     cout << endl << "chisla   " << a << " " << b << endl;
     cout << "raznost=  " << a - b << endl;
-    
+    cout << "umnozj=  " << a * b << endl;
 }
