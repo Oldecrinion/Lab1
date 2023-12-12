@@ -1,5 +1,5 @@
 ﻿// Программа является учебной 
-
+// Авторы Стухин Зарезин
 #include <iostream>
 
 using namespace std;
